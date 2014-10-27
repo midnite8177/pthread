@@ -7,7 +7,7 @@ This is a simple pthreads implementation for Windows, targeting Vista and upward
 
 The goals of this library are:
 
-- A simple, high-quality, standalone implementation of the POSXI pthreads API.
+- A simple, high-quality, standalone implementation of the POSIX pthreads API.
 - No awkward licensing issues. This is released as completely free software to use as you wish. 
   You do not have to credit anybody or comply with any licensing restrictions. (see UNLICENSE)
 - No undocumented APIs. This is implemented entirely using standard Win32 APIs.
