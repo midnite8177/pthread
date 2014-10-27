@@ -3,7 +3,7 @@ Simple pthreads
 
 http://github.com/rmitton/pthread
 
-This is a simple pthreads implementation for Windows, targetting Vista and upwards.
+This is a simple pthreads implementation for Windows, targeting Vista and upwards.
 
 The goals of this library are:
 
