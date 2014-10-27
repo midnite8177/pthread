@@ -1,0 +1,13 @@
+build/vs2008/Win32
+build/vs2008/x64
+build/mingw/x86
+build/mingw/x64
+
+susv3/
+winpthreads/
+tests/sourceware/
+tests/winptests/
+
+*.ncb
+*.suo
+*.user
